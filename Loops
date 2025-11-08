@@ -1,0 +1,2 @@
+for each student in class:
+    print their name
